@@ -1,11 +1,11 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.28/IDora.Studio-1.0.28-Setup.exe",
-  "sha256": "3b0213c69bbf767f1ef020527238b6eef2b43ec6065d1a9da11da83dada95901",
+  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.29/IDora.Studio-1.0.29-Setup.exe",
+  "sha256": "21444e2cc760c465f93e54a78e0086f0b8c1a0dd69d6ae8b67d7d7aa531f8f5e",
   "mandatory": true,
   "notes": [
-    "Fixed face stretching issue during image cropping and resizing",
-    "Enhanced crop tool aspect ratio lock across all handles"
+    "Fixed update detection resiliency and manifest resolution",
+    "Fixed face stretching issue during image cropping and resizing"
   ]
 }
