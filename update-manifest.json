@@ -1,11 +1,11 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.26/IDora.Studio-1.0.26-Setup.exe",
-  "sha256": "07ac8ddcc37764040d4586083e8ede49b9b69fdd3c1e902b538273d8a3d52699",
-  "mandatory": false,
+  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.27/IDora.Studio-1.0.27-Setup.exe",
+  "sha256": "65a83102ef4b171fe57c0dabfaea5ac6f4d4a138cc7540f5c672c9552c6d961d",
+  "mandatory": true,
   "notes": [
-    "Added Open Folder feature and Manual Process button in Image Processing",
-    "General user interface and performance improvements"
+    "Fixed startup package initialization error",
+    "Added Open Folder feature and Manual Process button in Image Processing"
   ]
 }
