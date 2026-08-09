@@ -1,11 +1,11 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.27/IDora.Studio-1.0.27-Setup.exe",
-  "sha256": "65a83102ef4b171fe57c0dabfaea5ac6f4d4a138cc7540f5c672c9552c6d961d",
+  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.28/IDora.Studio-1.0.28-Setup.exe",
+  "sha256": "3b0213c69bbf767f1ef020527238b6eef2b43ec6065d1a9da11da83dada95901",
   "mandatory": true,
   "notes": [
-    "Fixed startup package initialization error",
-    "Added Open Folder feature and Manual Process button in Image Processing"
+    "Fixed face stretching issue during image cropping and resizing",
+    "Enhanced crop tool aspect ratio lock across all handles"
   ]
 }
