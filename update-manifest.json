@@ -1,11 +1,13 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.31",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.29/IDora.Studio-1.0.29-Setup.exe",
-  "sha256": "21444e2cc760c465f93e54a78e0086f0b8c1a0dd69d6ae8b67d7d7aa531f8f5e",
+  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.31/IDora.Studio-1.0.31-Setup.exe",
+  "sha256": "c9b9acfaba733939c06b0fe195a3145a46160f5bd2baf306fbe35bc42ff0032d",
   "mandatory": true,
   "notes": [
-    "Fixed update detection resiliency and manifest resolution",
-    "Fixed face stretching issue during image cropping and resizing"
+    "Added interactive Tone Curve Editor with live canvas and side-by-side thumbnail preview",
+    "Added 23-color Studio background palette with transparent cutout support",
+    "Added live Auto Face Fit re-cropping during object scaling and dimension adjustments",
+    "Added Project Settings dialog in left sidebar to easily change Excel data source and reload live"
   ]
 }
