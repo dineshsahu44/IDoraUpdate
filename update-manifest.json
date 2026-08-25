@@ -1,13 +1,13 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.31/IDora.Studio-1.0.31-Setup.exe",
-  "sha256": "c9b9acfaba733939c06b0fe195a3145a46160f5bd2baf306fbe35bc42ff0032d",
+  "download_url": "https://github.com/dineshsahu44/IDoraUpdate/releases/download/v1.0.32/IDora.Studio-1.0.32-Setup.exe",
+  "sha256": "eeeb8463538ba6c2ba13098ace0fc3d1392d6f0281a6d0ff009d5b7d854e24f3",
   "mandatory": true,
   "notes": [
-    "Added interactive Tone Curve Editor with live canvas and side-by-side thumbnail preview",
-    "Added 23-color Studio background palette with transparent cutout support",
-    "Added live Auto Face Fit re-cropping during object scaling and dimension adjustments",
-    "Added Project Settings dialog in left sidebar to easily change Excel data source and reload live"
+    "Refined Auto Crop headroom and face framing calculations for natural ID photos",
+    "Enhanced print grid layout flow for Landscape and Portrait sheets",
+    "Optimized Same-Page double sided export sequence for portrait cards",
+    "Added automatic license add-on live sync on project creation and open"
   ]
 }
